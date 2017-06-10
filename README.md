@@ -50,7 +50,9 @@ some foods on this list are bad for dogs some are good
  ![img_1256](https://user-images.githubusercontent.com/29305382/27003610-f97fdcd8-4dc7-11e7-86f8-95ca309ab46e.JPG)
 
 <li>Ham:  Yes, dogs can eat ham. Ham is OK for dogs to eat, but certainly isn't the healthiest for them. Ham is high in sodium and fat, so while sharing a small piece is alright, it shouldn't be a continuous habit. </li>
- 
+
+![img_1257](https://user-images.githubusercontent.com/29305382/27003635-5eb21878-4dc8-11e7-905a-5317fdd89a71.JPG)
+
 <li>Honey:  Yes, dogs can eat honey. Honey is packed with countless nutrients such as vitamins A, B, C, D, E, and K, potassium, calcium, magnesium, copper, and antioxidants. Feeding dogs small amounts of honey can help with allergies because it introduces small amounts of pollen to their systems, building up immunity to allergens in your area. In addition to consuming honey, the sticky spread can also be used as a topical treatment for burns and superficial cuts. </li>
  
 <li>Ice cream:  No, dogs shouldn't eat ice cream. As refreshing of a treat as ice cream is, it’s best not to share it with your dog. Canines don’t digest dairy very well, and many even have a slight intolerance to lactose, a sugar found in milk products. Although it’s also a dairy product, frozen yogurt is a much better alternative. To avoid the milk altogether, freeze chunks of strawberries, raspberries, apples, and pineapples and give them to your dog as a sweet, icy treat. </li>
