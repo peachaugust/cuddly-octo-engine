@@ -9,7 +9,7 @@ some foods on this list are bad for dogs some are good
 
 ![img_1233](https://user-images.githubusercontent.com/29305382/27003364-211bca22-4dc3-11e7-930e-ceb0b975acff.JPG)
 
-<li>Bread:  Yes, dogs can eat bread. Small amounts of plain bread (no spices and definitely no raisins) won’t hurt your dog, but it also won’t provide any health benefits either. It has no nutritional value and can really pack on the carbohydrates and calories, just like in people. Homemade breads are a better option than store-bought, as bread from the grocery store typically contains unnecessary preservatives, but it’s best to avoid it all together.</li>
+<li>Bread:  Yes, dogs can eat bread.(no spices and definitely no raisins) small amounts of plain bread won’t hurt your dog, but it also won’t provide any health benefits either. It has no nutritional value and can really pack on the carbohydrates and calories, just like in people. Homemade breads are a better option than store-bought, as bread from the grocery store typically contains unnecessary preservatives, but it’s best to avoid it all together.</li>
 
 ![img_1234](https://user-images.githubusercontent.com/29305382/27003456-d035f400-4dc4-11e7-9275-1af416bea203.JPG)
 
