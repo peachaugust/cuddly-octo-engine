@@ -6,7 +6,9 @@ some foods on this list are bad for dogs some are good
 ![img_1232](https://user-images.githubusercontent.com/29305382/27003341-8d4f6f60-4dc2-11e7-9b1d-e7264aa04ef0.JPG)
 
 <li>Almonds:  No, dogs shouldn't eat almonds. Almonds may not necessarily be toxic to dogs like pecans, walnuts, and macadamia nuts are, but they can block the esophagus or even tear the windpipe if not chewed completely. Salted almonds are especially dangerous because they can increase water retention, which is potentially fatal to dogs prone to heart disease. </li>
- 
+
+![img_1233](https://user-images.githubusercontent.com/29305382/27003364-211bca22-4dc3-11e7-930e-ceb0b975acff.JPG)
+
 <li>Bread:  Yes, dogs can eat bread. Small amounts of plain bread (no spices and definitely no raisins) won’t hurt your dog, but it also won’t provide any health benefits either. It has no nutritional value and can really pack on the carbohydrates and calories, just like in people. Homemade breads are a better option than store-bought, as bread from the grocery store typically contains unnecessary preservatives, but it’s best to avoid it all together.</li>
 
 <li>Cashews: Yes, dogs can eat cashews. Cashews are OK for dogs, but only a few at a time. They’ve got calcium, magnesium, antioxidants, and proteins, but while these nuts contain less fat than others, too many can lead to weight gain and other fat-related conditions. A few cashews here and there are a nice treat, but only if they’re unsalted. </li>
