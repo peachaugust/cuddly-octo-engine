@@ -39,6 +39,8 @@ some foods on this list are bad for dogs some are good
  
 <li>Eggs:  Yes, it's OK for dogs to eat eggs. Eggs are safe for dogs as long as they are fully cooked. Cooked eggs are a wonderful source of protein and can help an upset stomach. However, eating raw egg whites can give dogs biotin deficiency, so be sure to cook the eggs all the way through before giving them to your pet.</li>
  
+ ![img_1255](https://user-images.githubusercontent.com/29305382/27003585-93b3160e-4dc7-11e7-8096-eb1dc737d699.JPG)
+
 <li>Fish:  Yes, dogs can eat fish. Fish contains good fats and amino acids, giving your dog a nice health boost. Salmon and sardines are especially beneficial – salmon because it’s loaded with vitamins and protein, and sardines because they have soft, digestible bones for extra calcium. With the exception of sardines, be sure to pick out all the tiny bones, which can be tedious but is definitely necessary. Never feed your dog uncooked or under-cooked fish, only fully cooked and cooled, and limit your dog’s fish intake to no more than twice a week. </li>
  
  ![img_1240](https://user-images.githubusercontent.com/29305382/27003560-267621f8-4dc7-11e7-9dda-880d50e09126.JPG)
