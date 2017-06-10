@@ -105,6 +105,8 @@ Shrimp:  Yes, shrimp is OK for dogs. A few shrimp every now and then is fine for
 ![img_1251](https://user-images.githubusercontent.com/29305382/27003764-c4031950-4dca-11e7-8c53-bff924e89385.JPG)
  
 <li>Turkey:  Yes, dogs can eat turkey. Turkey is fine for dogs as long as it is not covered in garlic (which can be very toxic to dogs) and seasonings. Also be sure to remove excess fat and skin from the meat and don’t forget to check for bones; poultry bones can splinter during digestion, causing blockage or even tears in the intestines. </li>
+
+![img_1252](https://user-images.githubusercontent.com/29305382/27003803-7c6ce354-4dcb-11e7-9e19-50c774d851a8.JPG)
  
 <li>Wheat/grains:  Yes, dogs can eat wheat and other grains. Dogs do not have to be grain-free; it is perfectly OK for them to have grains. In fact, grains like wheat and corn are great sources of protein, essential fatty acids, and fiber. If your dog has certain allergies, however, it might be best to avoid grains, but it truly depends on your dog. </li>
  <li>
