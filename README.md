@@ -109,6 +109,9 @@ Shrimp:  Yes, shrimp is OK for dogs. A few shrimp every now and then is fine for
 ![img_1252](https://user-images.githubusercontent.com/29305382/27003803-7c6ce354-4dcb-11e7-9e19-50c774d851a8.JPG)
  
 <li>Wheat/grains:  Yes, dogs can eat wheat and other grains. Dogs do not have to be grain-free; it is perfectly OK for them to have grains. In fact, grains like wheat and corn are great sources of protein, essential fatty acids, and fiber. If your dog has certain allergies, however, it might be best to avoid grains, but it truly depends on your dog. </li>
- <li>
+
+![img_1253](https://user-images.githubusercontent.com/29305382/27003808-993516f0-4dcb-11e7-9dee-18c5b48c735d.JPG)
+
+<li>
 Yogurt:  Yes, yogurt is OK for dogs. Plain yogurt is a perfectly acceptable snack for dogs, however some canines may have trouble digesting it. If your dog can digest it, the active bacteria in yogurt can help strengthen the digestive system with probiotics. Be sure to skip over yogurts with added sugars and artificial sweeteners.</li>
 </ul>
