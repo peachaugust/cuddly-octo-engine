@@ -11,6 +11,8 @@ some foods on this list are bad for dogs some are good
 
 <li>Bread:  Yes, dogs can eat bread. Small amounts of plain bread (no spices and definitely no raisins) won’t hurt your dog, but it also won’t provide any health benefits either. It has no nutritional value and can really pack on the carbohydrates and calories, just like in people. Homemade breads are a better option than store-bought, as bread from the grocery store typically contains unnecessary preservatives, but it’s best to avoid it all together.</li>
 
+![img_1234](https://user-images.githubusercontent.com/29305382/27003456-d035f400-4dc4-11e7-9275-1af416bea203.JPG)
+
 <li>Cashews: Yes, dogs can eat cashews. Cashews are OK for dogs, but only a few at a time. They’ve got calcium, magnesium, antioxidants, and proteins, but while these nuts contain less fat than others, too many can lead to weight gain and other fat-related conditions. A few cashews here and there are a nice treat, but only if they’re unsalted. </li>
  
 <li>Cheese: Yes, dogs can eat cheese in small to moderate quantities. As long as your dog isn’t lactose intolerant, which is rare, but still possible in canines, cheese can be a great treat. Many kinds of cheese can be high in fat, so go for low-fat varieties like cottage cheese or mozzarella.</li>
