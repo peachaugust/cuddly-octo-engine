@@ -89,6 +89,8 @@ Pork:  Yes, dogs can eat pork. Pork is highly digestible protein, packed with am
  
 <li>Quinoa:  Yes, quinoa is OK for dogs. Quinoa is actually an ingredient in some high-quality dry dog foods. The strong nutritional profile of quinoa makes it a healthy alternative to corn, wheat, and soy — starches that are often used to make kibble. </li>
  
+ ![img_1249](https://user-images.githubusercontent.com/29305382/27003729-00d3ced4-4dca-11e7-8ee8-d60b5dad29e1.JPG)
+
 <li>Salmon:  Yes, dogs can eat salmon. As mentioned above, fully cooked salmon is an excellent source of protein, good fats, and amino acids. It promotes joint and brain health and gives dog-immune systems a nice boost. However, raw or undercooked salmon contains parasites that can make dogs very sick, causing vomiting, diarrhea, dehydration, and, in extreme cases, even death. Be sure to cook salmon all the way through (the FDA recommends at least 145 degrees Fahrenheit) and the parasites should cook out.</li>
  <li>
 Shrimp:  Yes, shrimp is OK for dogs. A few shrimp every now and then is fine for your dog, but only if they are fully cooked and the shell (including the tail, head, and legs) is removed completely. Shrimp are high in antioxidants, vitamin B-12, and phosphorus, but also low in fat, calories, and carbohydrates. </li>
