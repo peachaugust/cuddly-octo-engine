@@ -47,6 +47,8 @@ some foods on this list are bad for dogs some are good
 
 <li>Garlic:  No, dogs shouldn't eat onions. Like onions, leeks, and chives, garlic is part of the Allium family, and it is five times more toxic to dogs than the rest of the Allium plants. Garlic can create anemia in dogs, causing side effects such as pale gums, elevated heart rate, weakness, and collapsing. Poisoning from garlic and onions may have delayed symptoms, so if you think your dog may have eaten some, monitor him or her for a few days, not just right after consumption. </li>
  
+ ![img_1256](https://user-images.githubusercontent.com/29305382/27003610-f97fdcd8-4dc7-11e7-86f8-95ca309ab46e.JPG)
+
 <li>Ham:  Yes, dogs can eat ham. Ham is OK for dogs to eat, but certainly isn't the healthiest for them. Ham is high in sodium and fat, so while sharing a small piece is alright, it shouldn't be a continuous habit. </li>
  
 <li>Honey:  Yes, dogs can eat honey. Honey is packed with countless nutrients such as vitamins A, B, C, D, E, and K, potassium, calcium, magnesium, copper, and antioxidants. Feeding dogs small amounts of honey can help with allergies because it introduces small amounts of pollen to their systems, building up immunity to allergens in your area. In addition to consuming honey, the sticky spread can also be used as a topical treatment for burns and superficial cuts. </li>
