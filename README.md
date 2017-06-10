@@ -75,6 +75,8 @@ Peanut butter:  Yes, peanut butter is OK for dogs. Peanut butter can be an excel
 ![img_1245](https://user-images.githubusercontent.com/29305382/27003680-5cad7044-4dc9-11e7-9215-51a1a0acc555.JPG)
  
 <li>Peanuts: Yes, dogs can eat peanuts. Unlike almonds, peanuts are safe for dogs to eat. They’re packed with good fats and proteins that can benefit your dog. Just be sure to give peanuts in moderation, as you don’t want your dog taking in too much fat, which can lead to pancreas issues. Also, avoid salted peanuts. </li>
+
+![img_1246](https://user-images.githubusercontent.com/29305382/27003685-879cde5c-4dc9-11e7-9423-7cc4f5dfce30.JPG)
  
 <li>Popcorn:  Yes, dogs can eat popcorn. Unsalted, unbuttered, plain air-popped popcorn is OK for your dog in moderation. It contains riboflavin and thiamine, both of which promote eye health and digestion, as well as small amounts of iron and protein. Be sure to pop the kernels all the way before giving them to your dog, as unpopped kernels could become a choking hazard.</li>
  <li>
