@@ -14,6 +14,8 @@ some foods on this list are bad for dogs some are good
 ![img_1234](https://user-images.githubusercontent.com/29305382/27003456-d035f400-4dc4-11e7-9275-1af416bea203.JPG)
 
 <li>Cashews: Yes, dogs can eat cashews. Cashews are OK for dogs, but only a few at a time. They’ve got calcium, magnesium, antioxidants, and proteins, but while these nuts contain less fat than others, too many can lead to weight gain and other fat-related conditions. A few cashews here and there are a nice treat, but only if they’re unsalted. </li>
+
+![img_1235](https://user-images.githubusercontent.com/29305382/27003466-0c939ede-4dc5-11e7-9365-75ddd8933f25.PNG)
  
 <li>Cheese: Yes, dogs can eat cheese in small to moderate quantities. As long as your dog isn’t lactose intolerant, which is rare, but still possible in canines, cheese can be a great treat. Many kinds of cheese can be high in fat, so go for low-fat varieties like cottage cheese or mozzarella.</li>
  
