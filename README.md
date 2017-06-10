@@ -58,7 +58,9 @@ some foods on this list are bad for dogs some are good
  ![img_1242](https://user-images.githubusercontent.com/29305382/27003646-94d5a3fc-4dc8-11e7-909c-56bd6fddc39a.JPG)
 
 <li>Ice cream:  No, dogs shouldn't eat ice cream. As refreshing of a treat as ice cream is, it’s best not to share it with your dog. Canines don’t digest dairy very well, and many even have a slight intolerance to lactose, a sugar found in milk products. Although it’s also a dairy product, frozen yogurt is a much better alternative. To avoid the milk altogether, freeze chunks of strawberries, raspberries, apples, and pineapples and give them to your dog as a sweet, icy treat. </li>
- 
+
+![img_1243](https://user-images.githubusercontent.com/29305382/27003650-c4637928-4dc8-11e7-802a-a02a2e2d5936.JPG)
+
 <li>Macadamia nuts:  No, dogs should not eat macadamia nuts. These are some of the most poisonous foods for dogs. Macadamia nuts, part of the Protaceae family, can cause vomiting, increased body temperature, inability to walk, lethargy, and vomiting. Even worse, they can affect the nervous system. Never feed your dog macadamia nuts. </li>
  
 <li>Milk:  Yes, dogs can have milk. But be cautious. Many dogs are lactose-intolerant and don't digest milk well. While it is okay for dogs to have a little milk, owners should be cognizant of the symptoms of lactose-intolerance and might want to stick to giving their dogs water. </li>
