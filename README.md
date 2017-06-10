@@ -92,7 +92,10 @@ Pork:  Yes, dogs can eat pork. Pork is highly digestible protein, packed with am
  ![img_1249](https://user-images.githubusercontent.com/29305382/27003729-00d3ced4-4dca-11e7-8ee8-d60b5dad29e1.JPG)
 
 <li>Salmon:  Yes, dogs can eat salmon. As mentioned above, fully cooked salmon is an excellent source of protein, good fats, and amino acids. It promotes joint and brain health and gives dog-immune systems a nice boost. However, raw or undercooked salmon contains parasites that can make dogs very sick, causing vomiting, diarrhea, dehydration, and, in extreme cases, even death. Be sure to cook salmon all the way through (the FDA recommends at least 145 degrees Fahrenheit) and the parasites should cook out.</li>
- <li>
+
+![img_1250](https://user-images.githubusercontent.com/29305382/27003743-5cc1d830-4dca-11e7-8480-b92e3c81ef1b.JPG)
+
+<li>
 Shrimp:  Yes, shrimp is OK for dogs. A few shrimp every now and then is fine for your dog, but only if they are fully cooked and the shell (including the tail, head, and legs) is removed completely. Shrimp are high in antioxidants, vitamin B-12, and phosphorus, but also low in fat, calories, and carbohydrates. </li>
  
 <li>Tuna:  Yes, dogs can eat tuna. In moderation, cooked, fresh tuna is an excellent source of omega-3 fatty acids, which promotes heart and eye health. As for canned tuna, it contains small amounts of mercury and sodium, which should be avoided in excess. A little bit of canned tuna and tuna juice here and there is fine – prepared only in water, not oil – as long as it doesn’t contain any spices. </li>
