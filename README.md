@@ -22,6 +22,8 @@ some foods on this list are bad for dogs some are good
  ![img_1236](https://user-images.githubusercontent.com/29305382/27003476-38b59454-4dc5-11e7-9d93-5813cab1ab5e.JPG)
 
 <li>Chocolate:  No, dogs should never eat chocolate. This is not a an old wives’ tale. Chocolate contains very toxic substances called methylxanthines, which are stimulants that stop a dog’s metabolic process. Even just a little bit of chocolate, especially dark chocolate, can cause diarrhea and vomiting. A large amount can cause seizures, irregular heart function, and even death. Do not have chocolate in an accessible location. If your dog does ingest chocolate, contact a veterinarian or Pet Poison Helpline as soon as possible. </li>
+
+![img_1237](https://user-images.githubusercontent.com/29305382/27003486-6d931a5c-4dc5-11e7-8cff-3fd4230c494e.JPG)
  
 <li>Cinnamon: No, cinnamon is not OK for dogs. While cinnamon is not actually toxic to dogs, it's probably best to avoid it. Cinnamon and its oils can irritate the inside of dogs’ mouths, making them uncomfortable and sick. It can lower a dog’s blood sugar too much and can lead to diarrhea, vomiting, increased, or decreased heart rate, and even liver disease. If they inhale it in powder form, cinnamon can cause difficulty breathing, coughing, and choking. </li>
  
