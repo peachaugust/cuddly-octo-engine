@@ -5,7 +5,7 @@ some foods on this list are bad for dogs some are good
 
 ![img_1232](https://user-images.githubusercontent.com/29305382/27003341-8d4f6f60-4dc2-11e7-9b1d-e7264aa04ef0.JPG)
 
-<li>Almonds:  No, dogs shouldn't eat almonds. Almonds may not necessarily be toxic to dogs like pecans, walnuts, and macadamia nuts are, but they can block the esophagus or even tear the windpipe if not chewed completely. Salted almonds are especially dangerous because they can increase water retention, which is potentially fatal to dogs prone to heart disease. </li>
+<li>Almonds:  No, dogs shouldn't eat almonds. Although almonds may not be toxic to dogs like Other nuts are, but they can block the choke or the nut can even tear the windpipe if not chewed completely. Salted almonds are even worse because they can increase water retention, which is most likley fatal to dogs which can lead to heart disease. </li>
 
 ![img_1233](https://user-images.githubusercontent.com/29305382/27003364-211bca22-4dc3-11e7-930e-ceb0b975acff.JPG)
 
