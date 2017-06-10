@@ -99,6 +99,8 @@ Pork:  Yes, dogs can eat pork. Pork is highly digestible protein, packed with am
 Shrimp:  Yes, shrimp is OK for dogs. A few shrimp every now and then is fine for your dog, but only if they are fully cooked and the shell (including the tail, head, and legs) is removed completely. Shrimp are high in antioxidants, vitamin B-12, and phosphorus, but also low in fat, calories, and carbohydrates. </li>
  
 <li>Tuna:  Yes, dogs can eat tuna. In moderation, cooked, fresh tuna is an excellent source of omega-3 fatty acids, which promotes heart and eye health. As for canned tuna, it contains small amounts of mercury and sodium, which should be avoided in excess. A little bit of canned tuna and tuna juice here and there is fine – prepared only in water, not oil – as long as it doesn’t contain any spices. </li>
+
+![img_1251](https://user-images.githubusercontent.com/29305382/27003764-c4031950-4dca-11e7-8c53-bff924e89385.JPG)
  
 <li>Turkey:  Yes, dogs can eat turkey. Turkey is fine for dogs as long as it is not covered in garlic (which can be very toxic to dogs) and seasonings. Also be sure to remove excess fat and skin from the meat and don’t forget to check for bones; poultry bones can splinter during digestion, causing blockage or even tears in the intestines. </li>
  
