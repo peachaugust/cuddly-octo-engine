@@ -30,10 +30,10 @@ some foods on this list are bad for dogs some are good
 ![img_1238](https://user-images.githubusercontent.com/29305382/27003490-96fde246-4dc5-11e7-8246-c7ceb699a311.JPG)
  
 <li>Coconut: Yes, coconut is OK for dogs. This funky fruit contains Lauric, which strengthens the immune system by fighting off viruses. It can also help with bad breath and clearing up skin conditions like hot spots, flea allergies, and itchy skin. Coconut milk and coconut oil are safe for dogs too. Just be sure your dog doesn’t get its paws on the furry outside of the shell, which can get lodged in the throat. </li>
-
-![img_1239](https://user-images.githubusercontent.com/29305382/27003503-cd38e04a-4dc5-11e7-90d3-c49cf9f4e7e7.JPG)
  
 <li>Corn:  Yes, dogs can eat corn. Corn is one of the most common ingredients in most dog foods. However, the cob can be hard for a dog to digest and may cause an intestinal blockage, so if you're sharing some corn, make sure it is off the cob. </li>
+
+![img_1239](https://user-images.githubusercontent.com/29305382/27003503-cd38e04a-4dc5-11e7-90d3-c49cf9f4e7e7.JPG)
  
 <li>Eggs:  Yes, it's OK for dogs to eat eggs. Eggs are safe for dogs as long as they are fully cooked. Cooked eggs are a wonderful source of protein and can help an upset stomach. However, eating raw egg whites can give dogs biotin deficiency, so be sure to cook the eggs all the way through before giving them to your pet.</li>
  
