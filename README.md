@@ -1,4 +1,4 @@
-# Foods dogs can and cant eat
+#### Foods dogs can and cant eat
 Description:
 some foods on this list are bad for dogs some are good
 <ul>
