@@ -62,6 +62,8 @@ some foods on this list are bad for dogs some are good
 ![img_1243](https://user-images.githubusercontent.com/29305382/27003650-c4637928-4dc8-11e7-802a-a02a2e2d5936.JPG)
 
 <li>Macadamia nuts:  No, dogs should not eat macadamia nuts. These are some of the most poisonous foods for dogs. Macadamia nuts, part of the Protaceae family, can cause vomiting, increased body temperature, inability to walk, lethargy, and vomiting. Even worse, they can affect the nervous system. Never feed your dog macadamia nuts. </li>
+
+![img_1259](https://user-images.githubusercontent.com/29305382/27003662-073ef178-4dc9-11e7-9752-21edc9936e0e.JPG)
  
 <li>Milk:  Yes, dogs can have milk. But be cautious. Many dogs are lactose-intolerant and don't digest milk well. While it is okay for dogs to have a little milk, owners should be cognizant of the symptoms of lactose-intolerance and might want to stick to giving their dogs water. </li>
  <li>
