@@ -26,6 +26,8 @@ some foods on this list are bad for dogs some are good
 ![img_1237](https://user-images.githubusercontent.com/29305382/27003486-6d931a5c-4dc5-11e7-8cff-3fd4230c494e.JPG)
  
 <li>Cinnamon: No, cinnamon is not OK for dogs. While cinnamon is not actually toxic to dogs, it's probably best to avoid it. Cinnamon and its oils can irritate the inside of dogs’ mouths, making them uncomfortable and sick. It can lower a dog’s blood sugar too much and can lead to diarrhea, vomiting, increased, or decreased heart rate, and even liver disease. If they inhale it in powder form, cinnamon can cause difficulty breathing, coughing, and choking. </li>
+
+![img_1238](https://user-images.githubusercontent.com/29305382/27003490-96fde246-4dc5-11e7-8246-c7ceb699a311.JPG)
  
 <li>Coconut: Yes, coconut is OK for dogs. This funky fruit contains Lauric, which strengthens the immune system by fighting off viruses. It can also help with bad breath and clearing up skin conditions like hot spots, flea allergies, and itchy skin. Coconut milk and coconut oil are safe for dogs too. Just be sure your dog doesn’t get its paws on the furry outside of the shell, which can get lodged in the throat. </li>
  
