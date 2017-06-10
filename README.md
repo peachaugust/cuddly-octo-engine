@@ -66,7 +66,10 @@ some foods on this list are bad for dogs some are good
 ![img_1259](https://user-images.githubusercontent.com/29305382/27003662-073ef178-4dc9-11e7-9752-21edc9936e0e.JPG)
  
 <li>Milk:  Yes, dogs can have milk. But be cautious. Many dogs are lactose-intolerant and don't digest milk well. While it is okay for dogs to have a little milk, owners should be cognizant of the symptoms of lactose-intolerance and might want to stick to giving their dogs water. </li>
- <li>
+
+![img_1244](https://user-images.githubusercontent.com/29305382/27003670-295960c2-4dc9-11e7-99e1-a9cbccff03ec.JPG)
+
+<li>
 Peanut butter:  Yes, peanut butter is OK for dogs. Peanut butter can be an excellent source of protein for dogs. It contains heart-healthy fats, vitamins B and E and niacin. Raw, unsalted peanut butter is the healthiest option because it doesn’t contain xylitol, a sugar substitute that can be toxic to dogs. </li>
  
 <li>Peanuts: Yes, dogs can eat peanuts. Unlike almonds, peanuts are safe for dogs to eat. They’re packed with good fats and proteins that can benefit your dog. Just be sure to give peanuts in moderation, as you don’t want your dog taking in too much fat, which can lead to pancreas issues. Also, avoid salted peanuts. </li>
