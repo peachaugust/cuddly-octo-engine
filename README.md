@@ -84,6 +84,8 @@ Peanut butter:  Yes, peanut butter is OK for dogs. Peanut butter can be an excel
  
  <li>
 Pork:  Yes, dogs can eat pork. Pork is highly digestible protein, packed with amino acids, and it contains more calories per pound than other meats. Pork also may be less likely to cause an allergic reaction in some pets compared to other meat. </li>
+
+![img_1248](https://user-images.githubusercontent.com/29305382/27003704-ca018ab8-4dc9-11e7-81b3-003791466125.JPG)
  
 <li>Quinoa:  Yes, quinoa is OK for dogs. Quinoa is actually an ingredient in some high-quality dry dog foods. The strong nutritional profile of quinoa makes it a healthy alternative to corn, wheat, and soy — starches that are often used to make kibble. </li>
  
