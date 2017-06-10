@@ -41,6 +41,8 @@ some foods on this list are bad for dogs some are good
  
 <li>Fish:  Yes, dogs can eat fish. Fish contains good fats and amino acids, giving your dog a nice health boost. Salmon and sardines are especially beneficial – salmon because it’s loaded with vitamins and protein, and sardines because they have soft, digestible bones for extra calcium. With the exception of sardines, be sure to pick out all the tiny bones, which can be tedious but is definitely necessary. Never feed your dog uncooked or under-cooked fish, only fully cooked and cooled, and limit your dog’s fish intake to no more than twice a week. </li>
  
+ ![img_1240](https://user-images.githubusercontent.com/29305382/27003560-267621f8-4dc7-11e7-9dda-880d50e09126.JPG)
+
 <li>Garlic:  No, dogs shouldn't eat onions. Like onions, leeks, and chives, garlic is part of the Allium family, and it is five times more toxic to dogs than the rest of the Allium plants. Garlic can create anemia in dogs, causing side effects such as pale gums, elevated heart rate, weakness, and collapsing. Poisoning from garlic and onions may have delayed symptoms, so if you think your dog may have eaten some, monitor him or her for a few days, not just right after consumption. </li>
  
 <li>Ham:  Yes, dogs can eat ham. Ham is OK for dogs to eat, but certainly isn't the healthiest for them. Ham is high in sodium and fat, so while sharing a small piece is alright, it shouldn't be a continuous habit. </li>
